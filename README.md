@@ -6,7 +6,7 @@ Esta aplicação lista todos os issue do repositório: https://github.com/vbross
 ## O que faz?
 1 - Lista issues do repositório.
 
-2 - Mostra informaçes de uma issue ao clicar.
+2 - Ao clicar em cada issue exibe as informaçes (data de criação e data de atualização).
 
 
 
