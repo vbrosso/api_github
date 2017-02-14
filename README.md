@@ -1,9 +1,4 @@
-# arizona_teste
-
-Esta aplicação lista todos os issue do repositório: https://github.com/vbrosso/arizona_teste
-
-
-## O que faz?
+﻿# api_github aplicação lista todos os issue do repositório: https://github.com/vbrosso/api_github## O que faz?
 1 - Lista issues do repositório.
 
 2 - Ao clicar em cada issue exibe as informaçes (data de criação e data de atualização).
