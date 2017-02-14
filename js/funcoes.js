@@ -1,5 +1,5 @@
 $( document ).ready(function() {
-  var issues = 'https://api.github.com/repos/vbrosso/arizona_teste/issues';
+  var issues = 'https://github.com/vbrosso/api_github/issues';
 
 
   $.getJSON(issues, function(data){
